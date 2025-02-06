@@ -47,15 +47,14 @@ This project is a responsive dashboard interface built with HTML, CSS, JavaScrip
 ## Screenshot
 Below is a preview of the dashboard:
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](images/DashBoard_1.png)
+![Dashboard Screenshot](images/DashBoard_2.png)
 
 ## Future Enhancements
 - Add user authentication.
 - Integrate real API data.
 - Implement dark mode.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 For any issues or contributions, feel free to open a pull request or reach out!
